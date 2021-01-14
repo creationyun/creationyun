@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**I am 3-combination Developer - Development + Security + Transportation(?)**
+
+개발 + 보안 + 교통(?)이라는 삼합 개발자
+
+[Profile](http://profile.midnightguidetohome.info/)
