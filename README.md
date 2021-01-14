@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 **I am a 3-combination developer, Development + Security + Transportation(..?)**
 
-개발 + 보안 + 교통(..?)이 합쳐진 삼합 개발자
+개발 + 보안 + 교통(..?)이 합쳐진 삼합 개발자입니다.
 
-[Go To My Profile Page](http://profile.midnightguidetohome.info/)
+[Go To My Profile Page (내 프로필 페이지로 이동)](http://profile.midnightguidetohome.info/)
